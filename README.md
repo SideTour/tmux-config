@@ -10,7 +10,7 @@ It contains:
 ## Installation as a Vim Plugin:
 If using Pathogen:
 
-    git submodule add git://github.com/pivotal/tmux-config.git bundle/tmux-config
+    git submodule add git://github.com/SideTour/tmux-config.git bundle/tmux-config
     git submodule update --init
 
 ## tmux.conf Installation
@@ -33,6 +33,8 @@ To enable VIM autosaving, add the following to your .bash\_profile, .bashrc, or 
 
 
 # ACKNOWLEDGEMENTS
+
+Forked from Pivotal Labs tmux config, mostly authored by the Mighty Joe Moore.
 
 Thanks go out to the Casecommons team for developing this 
 autosave solution. Please see the original files at
